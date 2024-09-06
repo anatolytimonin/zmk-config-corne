@@ -101,7 +101,7 @@
             bindings = <
 &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3    &kp NUMBER_4      &kp N5       &kp NUMBER_6  &kp N7         &kp N8        &kp N9        &kp N0        &trans
 &trans  &kp LEFT_GUI  &kp LEFT_ALT  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &trans       &kp MINUS     &kp RC(EQUAL)  &kp RS(LBKT)  &kp RA(RBKT)  &kp RG(BSLH)  &kp GRAVE
-&trans  &trans        &trans        &trans          &trans            &trans       &kp UNDER     &kp PLUS       &kp LBRC      &kp RBRC      &kp PIPE      &kp TILDE
+&trans  &trans        &trans        &trans          &trans            &trans       &trans        &trans         &trans        &trans        &trans        &trans
                                     &trans          &trans            &kp SPACE    &kp RET       &trans         &trans
             >;
         };
